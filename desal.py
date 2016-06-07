@@ -39,3 +39,7 @@ print couPerWaterKg
 def estForce(d1,d2):
 	#d1 and d2 are 3 element arrays containing length width and height
 	print "t"
+
+def voltageFromPoint(p1,p2):
+	#3d points
+	k = 9 * math.pow(10,9)
